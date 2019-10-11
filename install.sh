@@ -1,3 +1,6 @@
+conda config --add channels defaults
+conda config --add channels bioconda
+conda config --add channels conda-forge
 conda install -y -c rdkit -c mordred-descriptor mordred
 conda install -y -c conda-forge pybel
 pip install numpy==1.16.4
