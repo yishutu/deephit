@@ -3,7 +3,7 @@
 ##Procedure
 
 **Note**: 
-This source code was developed in Linux, and has been tested in Ubuntu 14.04 with Python 2.7.
+This source code was developed in Linux, and has been tested in Ubuntu 16.04 with Python 2.7.
 
 1. Clone the repository
 
