@@ -1,29 +1,26 @@
-# README #
+#DeepHIT
 
-This README would normally document whatever steps are necessary to get your application up and running.
+##Procedure
 
-### What is this repository for? ###
+**Note**: 
+This source code was developed in Linux, and has been tested in Ubuntu 14.04 with Python 2.7.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+1. Clone the repository
 
-### How do I get set up? ###
+        git clone 
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+2. Create and activate a conda environment
 
-### Contribution guidelines ###
+        conda create -n deephit python=2.7
+        conda activate deephit
+            
+3. Install packages
 
-* Writing tests
-* Code review
-* Other guidelines
+        bash install.sh
 
-### Who do I talk to? ###
+##Example
 
-* Repo owner or admin
-* Other community or team contact
+- Run DeepHIT
+
+        python deephit.py -i ./example/test.smi -o ./output 
+

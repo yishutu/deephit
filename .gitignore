@@ -1,0 +1,11 @@
+output/
+out*/
+htmlcov/
+deephit/__pycache__/
+deephit/__pycashe__/*.pyc
+deephit/*.pyc
+*.log
+*.swp
+*.spec
+*.sh
+*.pyc
