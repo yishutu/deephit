@@ -7,7 +7,7 @@ This source code was developed in Linux, and has been tested in Ubuntu 16.04 wit
 
 1. Clone the repository
 
-        git clone https://JaeyongRyu@bitbucket.org/krictai/deephit.git
+        git clone https://bitbucket.org/krictai/deephit.git
 
 2. Create and activate a conda environment
 
