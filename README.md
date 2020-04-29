@@ -22,5 +22,5 @@ This source code was developed in Linux, and has been tested in Ubuntu 16.04 wit
 
 - Run DeepHIT
 
-        python deephit.py -i ./example/test.smi -o ./output 
+        python deephit.py -i ./examples/test.txt -o ./output 
 
